@@ -1,0 +1,1 @@
+=IFERROR(PEARSON(Sheet4!$A:$A,Sheet4!B:B),0)
